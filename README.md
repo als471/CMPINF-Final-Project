@@ -6,7 +6,7 @@
 > als471@pitt.edu\
 > Arrest Report Data Set
 >* This dataset contains a list of all arrests reported in Pittsburgh neighborhoods beginning in 1998 to 2023
->* https://data.wprdc.org/dataset/arrest-data/resource/e554650d-f48f-49b2-88f3-e19878a1c245
+>* https://data.wprdc.org/dataset/arrest-data
     
 #### Forest Maguire
 > fkm8@pitt.edu\
