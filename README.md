@@ -9,6 +9,10 @@
 >* https://data.wprdc.org/dataset/arrest-data/resource/e554650d-f48f-49b2-88f3-e19878a1c245
     
 #### Forest Maguire
+> fkm8@pitt.edu\
+> Fire Incidents in City of Pittsburgh Data Set
+>* History of Fire Department Respones in the city of Pittsburgh
+>* https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 
 #### Chris Landingin 
 
