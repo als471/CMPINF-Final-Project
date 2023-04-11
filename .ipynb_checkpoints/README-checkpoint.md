@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CMPINF-Final-Project
-=======
 # CMPINF Final Project
 
 ## Team Nightmare
@@ -12,9 +9,12 @@
 >* https://data.wprdc.org/dataset/arrest-data/resource/e554650d-f48f-49b2-88f3-e19878a1c245
     
 #### Forest Maguire
+> fkm8@pitt.edu\
+> Fire Incidents in City of Pittsburgh Data Set
+>* History of Fire Department Respones in the city of Pittsburgh
+>* https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 
 #### Chris Landingin 
 
 ## Overview
 Our repository contains a jupyter notebook with an overview of our groups research in the "Final Project Group 3" folder as well as our own personal research held in the folders with our names.
->>>>>>> 405d6c3ae89d4be0a7ba2c4d1f68e31d09997d93
