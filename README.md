@@ -5,7 +5,7 @@
 #### Adele Swecker
 > als471@pitt.edu\
 > Arrest Report Data Set
->* This dataset contains a list of all arrests reported in Pittsburgh neighborhoods beginning in 1998 to 2023
+>* This dataset contains a list of all arrests reported in Pittsburgh neighborhoods
 >* https://data.wprdc.org/dataset/arrest-data
     
 #### Forest Maguire
